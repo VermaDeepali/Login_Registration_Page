@@ -1,6 +1,6 @@
-#GIT Repository for Login_registration Page
+# GIT Repository for Login_registration Page
 
-##This is used to explain the content of my Project.
+## This is used to explain the content of my Project.
 
 - `README.md` This is a documentation file for my project Login_Registration_Page.
 
